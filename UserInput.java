@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class UserInput {
     public int[] inputNumbers() {
-
         // create scanner instance
         Scanner scan = new Scanner(System.in);
 
@@ -26,7 +25,6 @@ public class UserInput {
     }
 
     public int[] inputArray(int size) {
-
         // create scanner instance
         Scanner scan = new Scanner(System.in);
 
