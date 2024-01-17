@@ -3,7 +3,6 @@ package Assignment1;
 import java.util.*;
 
 public class Calculator {
-    
     // function to add two numbers
     public static int add(int num1, int num2) 
     {
