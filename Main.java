@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
         // printing menu
         System.out.println("For two numbers : ");
         System.out.println("1. Add");
@@ -29,10 +28,7 @@ public class Main {
         // create an instance of the UserInput class
         UserInput input = new UserInput();
 
-        // create an instance of the Calculator class
-        // Calculator calculator = new Calculator();
-
-        // now perform the mathematical function based on user's
+        // now perform the mathematical function based on user's choice
         
         if (choice >= 1 && choice <= 4) {
             int[] numbers = new int[2];
