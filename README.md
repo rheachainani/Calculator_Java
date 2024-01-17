@@ -1,5 +1,5 @@
 # Calculator_Java
-Calculator program written in Java to perform mathematical functions on pair of numbers and arrays.
+Calculator program written in Java to perform mathematical and statistical functions on pair of numbers and arrays.
 
 ## Files
 
