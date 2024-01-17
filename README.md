@@ -39,27 +39,27 @@ Calculator program written in Java to perform mathematical functions on pair of 
 
 ### Statistical Operations
 
-5. **findSum**
+1. **findSum**
 - Parameters: array (int[]), n (int)
 - Returns the sum of elements in an array.
 
-6. **findMean**
+2. **findMean**
 - Parameters: array (int[]), n (int)
 - Returns the mean (average) of elements in an array.
 
-7. **findMedian**
+3. **findMedian**
 - Parameters: array (int[]), n (int)
 - Returns the median of elements in a sorted array.
 
-8. **findMode**
+4. **findMode**
 - Parameters: array (int[]), n (int)
 - Returns the mode (most frequently occurring element) in an array.
 
-9. **findVariance**
+5. **findVariance**
 - Parameters: array (int[]), n (int)
 - Returns the variance of elements in an array.
 
-10. **findStandardDeviation**
+6. **findStandardDeviation**
 - Parameters: array (int[]), n (int)
 - Returns the standard deviation of elements in an array.
 
